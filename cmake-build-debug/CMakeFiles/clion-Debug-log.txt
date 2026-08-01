@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2024.2.0.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S F:\stuffff\Coding\c++\projects\spring2025-se102-oop-project-spring2025-se102-oop-project_f -B F:\stuffff\Coding\c++\projects\spring2025-se102-oop-project-spring2025-se102-oop-project_f\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: F:/stuffff/Coding/c++/projects/spring2025-se102-oop-project-spring2025-se102-oop-project_f/cmake-build-debug

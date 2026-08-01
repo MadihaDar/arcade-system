@@ -1,0 +1,18 @@
+[
+    {
+        "character_name": "playingg",
+        "class": "Marksman",
+        "inventory": [],
+        "race": "Human",
+        "stats": {
+            "adf": 195.0,
+            "atk": 145.0,
+            "ats": 195.0,
+            "def": 110.0,
+            "hp": 195.0,
+            "spd": 195.0
+        },
+        "user_name": "playingg",
+        "waves_survived": 12
+    }
+]
